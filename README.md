@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>
+<div width="100%">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsingv" />
 </div>
 
