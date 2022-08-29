@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-<div width="100%">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsingv" />
-</div>
+```C++
+#include <iostream>
+#include <stdio.h>
+using namespace std::Tsingv;
+
+int main() {
+    char info[128] = "Secret";
+
+    char *langs[5] = { "C", "C++", "Python", "Java" };
+    
+    // Server:   https://sur.moe;
+    return 0; 
+}
+``` 
 
 <!--
 **Tsingv/Tsingv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
